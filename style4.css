@@ -1,45 +1,63 @@
-body    {background-image: url(background.jpg);
-        margin : 0px;}
+body    {
+        background-image: url(background.jpg);
+        margin : 0px;
+}
 
-th  {color: rgb(26, 26, 26);
-font-family: Arial, Helvetica, sans-serif;
-    text-align: center;
-    font-size: 30px;
-    text-decoration-line: underline;}
-
-td       {color: rgb(26, 26, 26);
+th      {
+        color: rgb(26, 26, 26);
         font-family: Arial, Helvetica, sans-serif;
         text-align: center;
-        font-size: 25px;}
+        font-size: 30px;
+        text-decoration-line: underline;
+}
 
-table   {margin-left: auto;
+td      {
+        color: rgb(26, 26, 26);
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+        font-size: 25px;
+}
+
+table   {
+        margin-left: auto;
         margin-right: auto;
-        height: 40%;}
+        height: 40%;
+}
 
-iframe  {display: block;
+iframe  {
+        display: block;
         margin-top: 50px;
         margin-bottom: 100px;
         margin-left: auto;
-        margin-right: auto;}
+        margin-right: auto;
+}
 
-a:link, a:visited {color: rgb(74, 184, 70);
-                text-decoration: none;
-                font-size: 25px;
-                text-shadow: 0px 2px 5px rgb(0, 0, 0)}  
+a:link, a:visited       {
+        color: rgb(74, 184, 70);
+        text-decoration: none;
+        font-size: 25px;
+        text-shadow: 0px 2px 5px rgb(0, 0, 0);
+}  
                     
-a:hover {color: rgb(255, 255, 255); 
-        text-decoration: underline;}
+a:hover {
+        color: rgb(255, 255, 255); 
+        text-decoration: underline;
+}
 
-.topnav {text-align: center;
+.topnav {
+        text-align: center;
         font-family: Arial, Helvetica, sans-serif;
         padding: 15px;
         word-spacing: 100px;
         background-color: rgb(26, 26, 26);
-        box-shadow: 0px 2px 2px;}
+        box-shadow: 0px 2px 2px;
+}
 
-.yhteistiedot {display: block;
+.yhteistiedot   {
+        display: block;
         margin-left: auto;
         margin-right: auto;
         margin-top: 100px;
         margin-bottom: 50px;
-        width: 650px;}
+        width: 650px;
+}
